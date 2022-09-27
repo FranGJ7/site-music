@@ -1,9 +1,8 @@
 <h3>Site IMusicplay</h3>
 
-<p>IMusicPlay aqui você encontra as melhores música do momento, melhores músicas de sua região, pode buscar músicas de sua preferência com suas buscas conseguimos indicar outras com estilos  tes a suas para conhecer músicas novas e colocar em sua playlist com direito a acesso as letras</p>
+<p>IMusicPlay aqui você encontra as melhores música do momento, melhores músicas de sua região, pode buscar músicas de sua preferência com suas buscas conseguimos indicar outras músicas semelhante para conhecer músicas novas e colocar em sua playlist com direito a acesso as letras</p>
 
-   
-
+<P>Site completamente responsivo para acessar de seu Celular ou até mesmo do PC</P>
 
 
 <h4>Sobre</h4>
