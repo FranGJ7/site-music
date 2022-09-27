@@ -19,7 +19,7 @@ const AroundYou = () => {
       .finally(() => setLoading(false));
   }, [country]);
 
-  if (isFetching && loading) return <Loader title="Loading Songs around you..." />;
+  if (isFetching && loading) return <Loader title="Carregando músicas recomendada para você..." />;
 
   if (error && country !== '') return <Error />;
 
